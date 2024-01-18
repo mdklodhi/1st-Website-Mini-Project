@@ -1,0 +1,88 @@
+/* .house-icon {
+  color: brown;
+  font-size: 36px;
+} */
+
+/* .Red {
+  color: blue;
+} */
+
+/* ------- Media Queries (Mobile Responsive) ----   */
+
+ /* .main {
+  width: 100%;
+  height: 500px;
+  background-color: aqua;
+} */
+
+@media only screen and (max-width: 576px) {
+  .main {
+    background-color: orange;
+  }
+}
+
+@media only screen and (min-width: 576px) {
+  .main {
+    background-color: red;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .main {
+    background-color: blue;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .main {
+    background-color: pink;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .main {
+    background-color: purple;
+  }
+} 
+
+* {
+   box-sizing: border-box;
+ }
+ 
+ .menu {
+   float: left;
+   width: 20%;
+   text-align: center;
+ }
+ 
+ .menu a {
+   background-color: #e5e5e5;
+   padding: 8px;
+   margin-top: 7px;
+   display: block;
+   width: 100%;
+   color: black;
+ }
+ 
+ .main {
+   float: left;
+   width: 60%;
+   padding: 0 20px;
+ }
+ 
+ .right {
+   background-color: #e5e5e5;
+   float: left;
+   width: 20%;
+   padding: 15px;
+   margin-top: 7px;
+   text-align: center;
+ }
+ @media only screen and (max-width: 620px) {}
+/* For mobile phones: */
+/* .menu, .main, .right {
+ width: 100%;
+}
+</style> --> 
+
+
