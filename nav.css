@@ -1,0 +1,136 @@
+/*  (Salt n Pepper NavBar) */
+body {
+    margin: 0px;
+  }
+  .header {
+    width: 161%;
+    background-color: #000;
+    height: 100px;
+    padding: 2px;
+  }
+  
+  .header > div > img {
+    margin-top: 15px;
+  }
+  
+  .d-inline {
+    display: inline-block;
+  }
+  
+  .menu > li {
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 40px;
+  }
+  .menu > li:hover {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    
+  }
+  
+  .menu-box {
+    /* height: 100%; */
+    vertical-align: bottom;
+    margin-left: 100px;
+    /* margin-bottom: 15px; */
+  }
+  
+  .btn:hover{
+    color: black;
+  }
+  .btn {
+    background-color: #ed1c24;
+    border: 1px solid #ed1c24;
+    border-radius: 35px;
+    color: #ffffff;
+    padding: 12px 13.5px 12px 13.5px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .btn1 {
+    background-color: #ed1c24;
+    border: 1px solid #ed1c24;
+    border-radius: 35px;
+    color: #ffffff;
+    padding: 12px 13.5px 12px 13.5px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .bgimg{
+    width: 120%;
+    height: 100px;
+    max-width: 100%;
+  }
+  footer {
+    text-align: center;
+    padding: 0px;
+    background-color:black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  a{
+    color: white;
+  }
+  a:hover{
+    color:blueviolet;
+    font-weight: bolder ;
+    font-style: italic;
+  }
+  .hd1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:rgb(red, green, blue);
+  }
+  .aboutus2head{
+    text-align: left;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: #ed1c24;
+    font-weight: bold;
+    font-size: large;
+  }
+  .aboutbg{
+    /* align-content: center; */
+      /* display: block; */
+       /* margin-left: 200px; */ 
+      /* margin-right: 700px; */
+      /* width: 100%; */
+      margin-left: 200px;
+      margin-right: 200px;
+      margin-bottom: 200px;
+      
+      /* border: 5px; */
+      /* border: 5px solid; */
+      /* border-radius: solid; */
+      /* border: solid 5px; */
+      /* border: solid; */
+      /* width:"225" */
+      /* height: 151px; */
+  }
+  .aboutbg1{
+    /* align-content: center; */
+      /* display: block; */
+       /* margin-left: 200px; */ 
+      /* margin-right: 700px; */
+      /* width: 100%; */
+      margin-left: 200px;
+      margin-right: 200px; 
+      /* width:100%;   */
+      /* margin-left: 200px    */
+
+  }
+  .cpm1{
+    left: 1000px;
+  }
+  .contactaddress{
+    text-align: center;
+    align-items: center;
+    text-decoration: dotted;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+  }
